@@ -40,17 +40,7 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium Operator](https://docs.cilium.io/en/stable/internals/cilium_operator/): Cilium Operator is a Kubernetes operator that simplifies the deployment and management of Cilium within a Kubernetes cluster. It automates tasks such as deploying Cilium agents, configuring eBPF policies, and handling upgrades.
 
-
 - [Tetragon](https://github.com/cilium/tetragon): Tetragon is a runtime security enforcement and observability tool. 
-
-
-## Articles and Presentations
-
-- [Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA): A livestream covering all things related to eBPF and Cilium presented by Isovalent's Thomas Graf & Liz Rice. 
-
-
-- [Cilium CNI](https://medium.com/itnext/cilium-cni-a-comprehensive-deep-dive-guide-for-networking-and-security-enthusiasts-588afbf72d5c): A Comprehensive Deep Dive Guide for Networking and Security Enthusiasts!
-
 
 - [Cilium Mesh](https://isovalent.com/blog/post/introducing-cilium-mesh/): Cilium Mesh connects Kubernetes workloads, virtual machines, and physical servers running in the cloud, on-premises, or at the edge.
 
@@ -68,6 +58,16 @@ Here are some notable projects and concepts related to Cilium:
 
 
 - [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy): Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
+
+## Articles and Presentations
+
+- [Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA): A livestream covering all things related to eBPF and Cilium presented by Isovalent's Thomas Graf & Liz Rice. 
+
+
+- [Cilium CNI](https://medium.com/itnext/cilium-cni-a-comprehensive-deep-dive-guide-for-networking-and-security-enthusiasts-588afbf72d5c): A Comprehensive Deep Dive Guide for Networking and Security Enthusiasts!
+
+
+
 
 ## Community Events
 
