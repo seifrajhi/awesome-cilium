@@ -55,6 +55,7 @@ Here are some notable projects and concepts related to Cilium:
 - [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel): Enable exporting Hubble flow data using OpenTelemetry collector.
 
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
+  
 
 ![image](https://github.com/seifrajhi/awesome-cilium/assets/26981510/b2236520-ea4c-400d-a5fd-15850a8bf420)
 
@@ -62,13 +63,13 @@ Here are some notable projects and concepts related to Cilium:
 - [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy): Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
 
 
-- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/): - Guide from the Cilium project.
+- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/): Guide from the Cilium project.
 
-- [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - A blog post by Cilium on the the motivations behind eBPF and bpfilter, with a couple examples and links to other projects using eBPF and bpfilter.
+- [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/): A blog post by Cilium on the the motivations behind eBPF and bpfilter, with a couple examples and links to other projects using eBPF and bpfilter.
 
-- [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf): - Slides from a talk by Quentin Monnet with a background on eBPF and comparing bpfilter to iptables.
+- [Bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf):  Slides from a talk by Quentin Monnet with a background on eBPF and comparing bpfilter to iptables.
 
-- [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp) - Also featuring a load balancer use case
+- [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp): Also featuring a load balancer use case
 
 - [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs)
 
@@ -81,9 +82,9 @@ Here are some notable projects and concepts related to Cilium:
 - [Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA): A livestream covering all things related to eBPF and Cilium presented by Isovalent's Thomas Graf & Liz Rice. 
 
 
-- [Cilium CNI](https://medium.com/itnext/cilium-cni-a-comprehensive-deep-dive-guide-for-networking-and-security-enthusiasts-588afbf72d5c): A Comprehensive Deep Dive Guide for Networking and Security Enthusiasts!
+- [Cilium CNI](https://medium.com/itnext/cilium-cni-a-comprehensive-deep-dive-guide-for-networking-and-security-enthusiasts-588afbf72d5c): A Comprehensive Deep Dive Guide for Networking and Security Enthusiasts.
 
-- [Cilium for Kubernetes networking](https://blog.palark.com/why-cilium-for-kubernetes-networking/): Why we use it and why we love it
+- [Cilium for Kubernetes networking](https://blog.palark.com/why-cilium-for-kubernetes-networking/): Why we use it and why we love it.
 
 - [A generic introduction to Cilium](https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html)
 
