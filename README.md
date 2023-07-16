@@ -100,6 +100,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Isovalent Security Summer School 2023](https://isovalent.com/events/2023-07-security-summer-school/): Virtual Security Summer School where you can level up your skills with hands-on labs. Learn how Cilium, Tetragon, and Hubble help improve Kubernetes security.
 
+- [Isovalent's cilium related events](https://isovalent.com/events/): events featuring diverse voices, innovative companies and big ideas
+
 ## Community and Contributing
 
 - [Slack channel](https://cilium.herokuapp.com/): For live conversation and quick questions, join the Cilium Slack workspace
