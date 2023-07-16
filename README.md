@@ -18,6 +18,7 @@ Here are some notable projects and concepts related to Cilium:
 - [Reference Documentation](#reference-documentation)
 - [Articles and Presentations](#articles-and-presentations)
 - [Community Events](community-events)
+- [Community and Contributing](#community-and-contributing)
 
 
 
@@ -53,10 +54,36 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium Mesh](https://isovalent.com/blog/post/introducing-cilium-mesh/): Cilium Mesh connects Kubernetes workloads, virtual machines, and physical servers running in the cloud, on-premises, or at the edge.
 
+- [NetworkPolicy Editor](https://editor.networkpolicy.io/): Create, Visualize, and Share Kubernetes NetworkPolicies.
+
+- [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus): Collect metrics from Cilium and store them in Prometheus for analysis and alerting.
+
+- [Cilium Helm Chart](https://artifacthub.io/packages/helm/cilium/cilium): Helm chart that can be used to deploy Cilium on Kubernetes.
+
+- [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel): Enable exporting Hubble flow data using OpenTelemetry collector.
+
+-[Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
+
+![image](https://github.com/seifrajhi/awesome-cilium/assets/26981510/b2236520-ea4c-400d-a5fd-15850a8bf420)
+
+
+- [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy): Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
 
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
+
+
+## Community and Contributing
+
+- [Slack channel](https://cilium.herokuapp.com/): For live conversation and quick questions, join the Cilium Slack workspace
+
+- [Twitter](https://twitter.com/ciliumproject): Follow Cilium on Twitter for the latest news and announcements.
+  
+- [YouTube](https://www.youtube.com/c/eBPFCiliumCommunity): Watch the videos from the Cilium and eBPF Communities.
+  
+- [Contributors](https://github.com/cilium/cilium/graphs/contributors): Contributions to main.
+
 
 ## Contributing
 
