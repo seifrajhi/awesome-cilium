@@ -75,7 +75,9 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium: Fast IPv6 container Networking with BPF and XDP](http://www.slideshare.net/ThomasGraf5/cilium-fast-ipv6-container-networking-with-bpf-and-xdp)
 
-- [Cilium: BPF & XDP for containers](https://fosdem.org/2017/schedule/event/cilium/)
+- [Cilium: BPF & XDP for containers](https://fosdem.org/2017/schedule/event/cilium/).
+
+-  [Learning ebpf book](https://github.com/lizrice/learning-ebpf): Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
 
 ## Articles and Presentations
 
