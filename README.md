@@ -66,6 +66,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium CNI](https://medium.com/itnext/cilium-cni-a-comprehensive-deep-dive-guide-for-networking-and-security-enthusiasts-588afbf72d5c): A Comprehensive Deep Dive Guide for Networking and Security Enthusiasts!
 
+- [Cilium for Kubernetes networking](https://blog.palark.com/why-cilium-for-kubernetes-networking/): Why we use it and why we love it
+
 
 
 
