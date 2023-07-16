@@ -26,6 +26,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Official website](https://cilium.io/) of cilium which was originally created by [Isovalent](https://isovalent.com/)
 
+- [Official github repository](https://github.com/cilium): of cilium project.
+
 ### Cilium related projects
 
 - [Cilium](https://github.com/cilium/cilium): The core project, Cilium, is a networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF (extended Berkeley Packet Filter) to provide fast and secure networking and load balancing for applications.
@@ -60,11 +62,11 @@ Here are some notable projects and concepts related to Cilium:
 - [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy): Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
 
 
-- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Guide from the Cilium project.
+- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/): - Guide from the Cilium project.
 
 - [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - A blog post by Cilium on the the motivations behind eBPF and bpfilter, with a couple examples and links to other projects using eBPF and bpfilter.
 
-- [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf) - Slides from a talk by Quentin Monnet with a background on eBPF and comparing bpfilter to iptables.
+- [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf): - Slides from a talk by Quentin Monnet with a background on eBPF and comparing bpfilter to iptables.
 
 - [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp) - Also featuring a load balancer use case
 
