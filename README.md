@@ -62,7 +62,7 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel): Enable exporting Hubble flow data using OpenTelemetry collector.
 
--[Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
+- [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
 
 ![image](https://github.com/seifrajhi/awesome-cilium/assets/26981510/b2236520-ea4c-400d-a5fd-15850a8bf420)
 
