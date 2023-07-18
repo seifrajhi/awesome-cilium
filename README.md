@@ -19,6 +19,7 @@ Here are some notable projects and concepts related to Cilium:
 - [Articles and Presentations](#articles-and-presentations)
 - [Community Events](community-events)
 - [Community and Contributing](#community-and-contributing)
+- [Hands on Contents](#hands-on-contents)
 
 
 
@@ -112,6 +113,12 @@ Here are some notable projects and concepts related to Cilium:
   
 - [Contributors](https://github.com/cilium/cilium/graphs/contributors): Contributions to main.
 
+
+
+
+## Hands on Contents
+
+- [Isovalent library for Cilium](https://isovalent.com/resource-library/): You can find Videos `Case studies`, `Blogs`, `Books`, `Labs` and `Analyst Reports`.
 
 ## Contributing
 
