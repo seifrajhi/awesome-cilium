@@ -93,7 +93,13 @@ Here are some notable projects and concepts related to Cilium:
 
 - [A podcast interviewing Thomas Graf](http://blog.ipspace.net/2016/10/fast-linux-packet-forwarding-with.html) - Ivan Pepelnjak interviewing Thomas, October 2016, on eBPF, P4, XDP and Cilium.
 
-- [How eBPF Streamlines the Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/): Explore how eBPF allows us to streamline the service mesh, making the data plane more efficient and easier to deploy. 
+- [How eBPF Streamlines the Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/): Explore how eBPF allows us to streamline the service mesh, making the data plane more efficient and easier to deploy.
+
+- [From Amazon VPC CNI to Cilium with Zero Downtime](https://medium.com/codex/migrate-to-cilium-from-amazon-vpc-cni-with-zero-downtime-493827c6b45e): Migrate to Cilium from Amazon VPC CNI with Zero Downtime 
+
+- [Cilium CNI and OKE on Oracle Cloud](https://medium.com/oracledevs/cni-adventures-with-kubernetes-on-oracle-cloud-cilium-5c6f011746d5): Kubernetes Networking with Cilium CNI and OKE on Oracle Cloud
+
+- [Cilium in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium): Configure Azure CNI Powered by Cilium in Azure Kubernetes Service (AKS)
 
 ## Community Events
 
