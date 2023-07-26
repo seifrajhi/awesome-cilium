@@ -29,6 +29,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Official github repository](https://github.com/cilium): of cilium project.
 
+- [A cookbook of installing cilium on AWS EKS](https://github.com/littlejo/cilium-eks-cookbook): Multiple ways to install cilium in eks
+
 ### Cilium related projects
 
 - [Cilium](https://github.com/cilium/cilium): The core project, Cilium, is a networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF (extended Berkeley Packet Filter) to provide fast and secure networking and load balancing for applications.
@@ -100,6 +102,9 @@ Here are some notable projects and concepts related to Cilium:
 - [Cilium CNI and OKE on Oracle Cloud](https://medium.com/oracledevs/cni-adventures-with-kubernetes-on-oracle-cloud-cilium-5c6f011746d5): Kubernetes Networking with Cilium CNI and OKE on Oracle Cloud
 
 - [Cilium in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium): Configure Azure CNI Powered by Cilium in Azure Kubernetes Service (AKS)
+
+- [eCHO News NEWSLETTER](https://www.linkedin.com/newsletters/echo-news-6937495018668482560/): eCHO news in a bi-weekly wrap up of all things eBPF and Cilium
+  
 
 ## Community Events
 
