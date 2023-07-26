@@ -103,7 +103,9 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium): Configure Azure CNI Powered by Cilium in Azure Kubernetes Service (AKS)
 
-- [eCHO News NEWSLETTER](https://www.linkedin.com/newsletters/echo-news-6937495018668482560/): eCHO news in a bi-weekly wrap up of all things eBPF and Cilium
+- [eCHO News NEWSLETTER](https://www.linkedin.com/newsletters/echo-news-6937495018668482560/): eCHO news in a bi-weekly wrap up of all things eBPF and Cilium.
+
+- [Exploring eBPF and XDP](https://naftalyava.com/example-xdp-ebpf-code-for-handling-ingress-traffic/): An Example - A basic example how to get started with XDP
   
 
 ## Community Events
@@ -126,10 +128,11 @@ Here are some notable projects and concepts related to Cilium:
 
 
 
-
 ## Hands on Contents
 
 - [Isovalent library for Cilium](https://isovalent.com/resource-library/): You can find Videos `Case studies`, `Blogs`, `Books`, `Labs` and `Analyst Reports`.
+
+- [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) : Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects
 
 ## Contributing
 
