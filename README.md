@@ -106,6 +106,8 @@ Here are some notable projects and concepts related to Cilium:
 - [eCHO News NEWSLETTER](https://www.linkedin.com/newsletters/echo-news-6937495018668482560/): eCHO news in a bi-weekly wrap up of all things eBPF and Cilium.
 
 - [Exploring eBPF and XDP](https://naftalyava.com/example-xdp-ebpf-code-for-handling-ingress-traffic/): An Example - A basic example how to get started with XDP
+
+- [eBPF - Rethinking the Linux Kernel](https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/edit#slide=id.g6e43ab8f8d_0_612): eBPF JavaScript-like capabilities to the Linux Kernel
   
 
 ## Community Events
