@@ -57,6 +57,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel): Enable exporting Hubble flow data using OpenTelemetry collector.
 
+- [Packet, where are you?](https://github.com/cilium/pwru):  eBPF-based Linux kernel networking debugger
+
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
   
 
@@ -110,7 +112,12 @@ Here are some notable projects and concepts related to Cilium:
 - [eBPF - Rethinking the Linux Kernel](https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/edit#slide=id.g6e43ab8f8d_0_612): eBPF JavaScript-like capabilities to the Linux Kernel
 
 - [Learn how Tetragon can stop CVEs with YAML](https://djalal.opendz.org/post/prevent-kernel-overlayfs-ubuntu-cves-with-yaml/): Prevent Overlayfs Privilege Escalation on Ubuntu Kernels with Yaml (bpf)!
+
+- [Cilium + Istio](https://www.solo.io/blog/cilium-1-14-istio/): A Quick Tour of Cilium 1.14 with Istio
+
+- [Cilium mutual auth … DIY](https://xxradar.medium.com/cilium-mutual-auth-diy-5d5036a82cf9): A quick run-through on setting up cilium, mtls on a self-managed kubernetes cluster
   
+- [Istio Service Mesh with ALB in EKS](https://medium.com/@amitmavgupta/installing-cilium-in-azure-kubernetes-service-byocni-with-no-kube-proxy-825b9007b24b):  Install Cilium in a BYOCNI mode seamlessly and thus leverage #ebpf functionality as compared to iptables.
 
 ## Community Events
 
