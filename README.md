@@ -59,6 +59,12 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Packet, where are you?](https://github.com/cilium/pwru):  eBPF-based Linux kernel networking debugger
 
+- [Coroot is an open-source eBPF-based observability tool ](https://github.com/coroot/coroot):  It  turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
+
+- [Pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability.
+
+- [caretta](https://github.com/groundcover-com/caretta): Instant K8s service dependency map, right to your Grafana.
+
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
   
 
