@@ -65,6 +65,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [caretta](https://github.com/groundcover-com/caretta): Instant K8s service dependency map, right to your Grafana.
 
+- [Gloo Network](https://www.solo.io/products/gloo-network/): Gloo Network enables Cilium-CNI powered by eBPF to enable networking, packet filtering and observability for modern applications.
+
 
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
   
