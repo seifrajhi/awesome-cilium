@@ -119,6 +119,10 @@ Here are some notable projects and concepts related to Cilium:
   
 - [Istio Service Mesh with ALB in EKS](https://medium.com/@amitmavgupta/installing-cilium-in-azure-kubernetes-service-byocni-with-no-kube-proxy-825b9007b24b):  Install Cilium in a BYOCNI mode seamlessly and thus leverage #ebpf functionality as compared to iptables.
 
+- [Kubernetes LoadBalance service using Cilium BGP control plane](https://medium.com/@valentin.hristev/kubernetes-loadbalance-service-using-cilium-bgp-control-plane-8a5ad416546a): A walk through the process of creating Cilium based support for Load Balancer Services in a minimal K3s Kubernetes cluster.
+
+- 
+
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
