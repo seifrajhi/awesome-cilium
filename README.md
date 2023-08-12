@@ -59,11 +59,12 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Packet, where are you?](https://github.com/cilium/pwru):  eBPF-based Linux kernel networking debugger
 
-- [Coroot is an open-source eBPF-based observability tool ](https://github.com/coroot/coroot):  It  turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
+- [Coroot](https://github.com/coroot/coroot):  It  turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
 
 - [Pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability.
 
 - [caretta](https://github.com/groundcover-com/caretta): Instant K8s service dependency map, right to your Grafana.
+
 
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux): Bpfilter offers a new approach to packet filtering in Linux.
   
@@ -127,7 +128,7 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Kubernetes LoadBalance service using Cilium BGP control plane](https://medium.com/@valentin.hristev/kubernetes-loadbalance-service-using-cilium-bgp-control-plane-8a5ad416546a): A walk through the process of creating Cilium based support for Load Balancer Services in a minimal K3s Kubernetes cluster.
 
-- 
+- [eBPF-based networking with Cilium](https://b-nova.com/en/home/content/ebpf-based-networking-with-cilium): What is it and what can it do?
 
 ## Community Events
 
