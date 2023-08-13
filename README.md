@@ -124,6 +124,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium + Istio](https://www.solo.io/blog/cilium-1-14-istio/): A Quick Tour of Cilium 1.14 with Istio
 
+- [Cilium: Decoding the packet path with Security Groups for Pods in EKS](https://medium.com/@amitmavgupta/security-groups-for-pods-in-eks-cilium-and-networking-f809cf72fc31):  Decoding the packet path with Security Groups for Pods in EKS.
+
 - [Cilium mutual auth … DIY](https://xxradar.medium.com/cilium-mutual-auth-diy-5d5036a82cf9): A quick run-through on setting up cilium, mtls on a self-managed kubernetes cluster
   
 - [Istio Service Mesh with ALB in EKS](https://medium.com/@amitmavgupta/installing-cilium-in-azure-kubernetes-service-byocni-with-no-kube-proxy-825b9007b24b):  Install Cilium in a BYOCNI mode seamlessly and thus leverage #ebpf functionality as compared to iptables.
