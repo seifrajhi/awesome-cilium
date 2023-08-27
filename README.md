@@ -158,7 +158,9 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Isovalent library for Cilium](https://isovalent.com/resource-library/): You can find Videos `Case studies`, `Blogs`, `Books`, `Labs` and `Analyst Reports`.
 
-- [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) : Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects
+- [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) : Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects.
+
+- [Podcast: Kubernetes Unpacked Podcast](https://packetpushers.net/podcast/kubernetes-unpacked-022-kubernetes-networking-and-abstraction-with-cilium-and-ebpf/): Kubernetes Unpacked 022: Kubernetes Networking And Abstraction With Cilium And eBPF
 
 ## Contributing
 
