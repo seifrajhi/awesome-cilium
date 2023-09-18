@@ -162,6 +162,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Podcast: Kubernetes Unpacked Podcast](https://packetpushers.net/podcast/kubernetes-unpacked-022-kubernetes-networking-and-abstraction-with-cilium-and-ebpf/): Kubernetes Unpacked 022: Kubernetes Networking And Abstraction With Cilium And eBPF
 
+- [From Zero to Cluster Mesh: Installing and Configuring Cilium CNI on Kubernetes](https://www.youtube.com/watch?v=z8Kifl3M3LU&list=PLQpKr4_0p0jEIGtCeV4VcGd_-Jf49e1JY):  How to install and configure the Cilium CNI (Container Network Interface) and enable its advanced cluster mesh feature across Kubernetes clusters in different availability zones!
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
