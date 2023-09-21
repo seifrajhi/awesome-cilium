@@ -160,6 +160,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) : Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects.
 
+- [K0S Cilium Playground](https://github.com/xinity/k0s_cilium_playground): A full bash based k0s Cilium Clustermesh enabled playground.
+- 
 - [Podcast: Kubernetes Unpacked Podcast](https://packetpushers.net/podcast/kubernetes-unpacked-022-kubernetes-networking-and-abstraction-with-cilium-and-ebpf/): Kubernetes Unpacked 022: Kubernetes Networking And Abstraction With Cilium And eBPF
 
 - [From Zero to Cluster Mesh: Installing and Configuring Cilium CNI on Kubernetes](https://www.youtube.com/watch?v=z8Kifl3M3LU&list=PLQpKr4_0p0jEIGtCeV4VcGd_-Jf49e1JY):  How to install and configure the Cilium CNI (Container Network Interface) and enable its advanced cluster mesh feature across Kubernetes clusters in different availability zones!
