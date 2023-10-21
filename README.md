@@ -95,6 +95,8 @@ Here are some notable projects and concepts related to Cilium:
 
 ## Articles and Presentations
 
+- [eBPF log analytics in your Kubernetes cluster](https://www.parseable.io/blog/ebpf-log-analytics): Leverage Cilium's Tetragon to capture eBPF based file access logs and send it to Parseable for alerting and further analytics.
+
 - [Introduction to Cilium](https://www.youtube.com/watch?v=80OYrzS1dCA): A livestream covering all things related to eBPF and Cilium presented by Isovalent's Thomas Graf & Liz Rice. 
 
 
