@@ -136,6 +136,9 @@ Here are some notable projects and concepts related to Cilium:
 
 - [eBPF-based networking with Cilium](https://b-nova.com/en/home/content/ebpf-based-networking-with-cilium): What is it and what can it do?
 
+- [Deploying Red Hat OpenShift with Cilium](https://isovalent.com/blog/post/deploying-red-hat-openshift-with-cilium/): Given that OpenShift is pretty ubiquitous in private clouds (especially in financial organizations) and that Cilium is on its way to become ubiquitous, this tutorial on deploying Cilium and Red Hat OpenShift will be handy for many.
+- 
+
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
