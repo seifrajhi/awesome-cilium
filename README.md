@@ -137,7 +137,8 @@ Here are some notable projects and concepts related to Cilium:
 - [eBPF-based networking with Cilium](https://b-nova.com/en/home/content/ebpf-based-networking-with-cilium): What is it and what can it do?
 
 - [Deploying Red Hat OpenShift with Cilium](https://isovalent.com/blog/post/deploying-red-hat-openshift-with-cilium/): Given that OpenShift is pretty ubiquitous in private clouds (especially in financial organizations) and that Cilium is on its way to become ubiquitous, this tutorial on deploying Cilium and Red Hat OpenShift will be handy for many.
-- 
+
+- [Setting up EKS Amazon Clusters, adding Cilium to projects using Terraform and Helm, supporting GitOps, and using Karpenter for efficient resource utilization and cost savings](https://aws.plainenglish.io/architecting-for-resilience-crafting-opinionated-eks-clusters-with-karpenter-cilium-cluster-mesh-c87cee1df934):  Architecting for Resilience: Crafting Opinionated EKS Clusters with Karpenter & Cilium Cluster Mesh
 
 ## Community Events
 
