@@ -140,6 +140,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Setting up EKS Amazon Clusters, adding Cilium to projects using Terraform and Helm, supporting GitOps, and using Karpenter for efficient resource utilization and cost savings](https://aws.plainenglish.io/architecting-for-resilience-crafting-opinionated-eks-clusters-with-karpenter-cilium-cluster-mesh-c87cee1df934):  Architecting for Resilience: Crafting Opinionated EKS Clusters with Karpenter & Cilium Cluster Mesh
 
+- [Kubernetes Gateway API with Cilium](https://kubito.dev/posts/kubernetes-gateway-api-cilium/): This article provides guidance on how to effectively configure Cilium for setting up the Gateway API in Kubernetes environments.
+
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
