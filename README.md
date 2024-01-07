@@ -142,6 +142,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Kubernetes Gateway API with Cilium](https://kubito.dev/posts/kubernetes-gateway-api-cilium/): This article provides guidance on how to effectively configure Cilium for setting up the Gateway API in Kubernetes environments.
 
+- [How to migrate from Red Hat OpenShiftSDN/OVN-Kubernetes to Cilium](https://veducate.co.uk/migrate-red-hat-openshiftsdn-ovn-kubernetes-cilium/): A step-by-step process of migrating from the traditional OpenShiftSDN (default CNI pre-4.12) or OVN-Kubernetes (default CNI from 4.12) to Cilium, exploring the advantages and considerations along the way.
+
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
