@@ -144,6 +144,8 @@ Here are some notable projects and concepts related to Cilium:
 
 - [How to migrate from Red Hat OpenShiftSDN/OVN-Kubernetes to Cilium](https://veducate.co.uk/migrate-red-hat-openshiftsdn-ovn-kubernetes-cilium/): A step-by-step process of migrating from the traditional OpenShiftSDN (default CNI pre-4.12) or OVN-Kubernetes (default CNI from 4.12) to Cilium, exploring the advantages and considerations along the way.
 
+- [Setup basic L4 Load Balancing with Cilium CNI and Ubuiqiti Edge Router](https://www.viktorious.nl/2024/01/05/setup-basic-l4-load-balancing-with-cilium-cni-and-ubuiqiti-edge-router/):  Setting up basic L4 Load Balancing with Cilium CNI and Ubuiqiti Edge Router.
+
 ## Community Events
 
 - [CiliumCon](https://cilium.io/events/): CiliumCon is a full-day co-located event for Cilium users, contributors, and new community members.
