@@ -3,7 +3,7 @@
 > Cilium is an open-source networking project that provides networking and security capabilities for containerized applications, microservices, and virtual machines. 
 
 
-> Recently [Cilium](https://cilium.io) launched a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf).
+> Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf).
 
 > Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from _you_ to keep this awesome list up to date, and improve its signal-to-noise ratio in anyway we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues).
 
@@ -17,7 +17,7 @@
 
 ## Reference Documentation
 
-- [Website](https://cilium.io/) - Official website of cilium which was originally created by [Isovalent](https://isovalent.com/).
+- [Website](https://cilium.io) - Official website of cilium which was originally created by [Isovalent](https://isovalent.com/).
 
 - [Official GitHub repository](https://github.com/cilium) - GitHub Repository of cilium project.
 
