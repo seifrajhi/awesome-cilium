@@ -1,7 +1,5 @@
 # Awesome Cilium [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome projects related to Cilium.
-
 > Cilium is an open-source networking project that provides networking and security capabilities for containerized applications, microservices, and virtual machines. 
 
 
