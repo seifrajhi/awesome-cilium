@@ -2,16 +2,12 @@
 
 > A curated list of awesome projects related to Cilium.
 
-Cilium is an open-source networking project that provides networking and security capabilities for containerized applications, microservices, and virtual machines. 
+> Cilium is an open-source networking project that provides networking and security capabilities for containerized applications, microservices, and virtual machines. 
 
 
-Recently [Cilium](https://cilium.io) launched a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf).
+> Recently [Cilium](https://cilium.io) launched a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf).
 
 > Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from _you_ to keep this awesome list up to date, and improve its signal-to-noise ratio in anyway we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues).
-
-Here are some notable projects and concepts related to Cilium:
-
-
 
 ## Contents
 
@@ -23,7 +19,7 @@ Here are some notable projects and concepts related to Cilium:
 
 ## Reference Documentation
 
-- [Official website](https://cilium.io/) of cilium which was originally created by [Isovalent](https://isovalent.com/).
+- [Website](https://cilium.io/) - Official website of cilium which was originally created by [Isovalent](https://isovalent.com/).
 
 - [Official GitHub repository](https://github.com/cilium) - GitHub Repository of cilium project.
 
@@ -85,9 +81,9 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs).
 
-- [Cilium: Fast IPv6 container Networking with BPF and XDP](http://www.slideshare.net/ThomasGraf5/cilium-fast-ipv6-container-networking-with-bpf-and-xdp).
+- [Cilium: Fast IPv6 container Networking with BPF and XDP](http://www.slideshare.net/ThomasGraf5/cilium-fast-ipv6-container-networking-with-bpf-and-xdp) - Fast IPv6 container Networking with BPF and XDP.
 
-- [Cilium: BPF & XDP for containers](https://fosdem.org/2017/schedule/event/cilium/).
+- [Cilium: BPF & XDP for containers](https://fosdem.org/2017/schedule/event/cilium/) - PF & XDP for containers.
 
 - [Learning ebpf book](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
 
@@ -102,13 +98,13 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Cilium for Kubernetes networking](https://blog.palark.com/why-cilium-for-kubernetes-networking/) - Why we use it and why we love it.
 
-- [A generic introduction to Cilium](https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html).
+- [A generic introduction to Cilium](https://opensource.googleblog.com/2016/11/cilium-networking-and-security.html) - A generic introduction to Cilium.
 
 - [A podcast interviewing Thomas Graf](http://blog.ipspace.net/2016/10/fast-linux-packet-forwarding-with.html) - Ivan Pepelnjak interviewing Thomas, October 2016, on eBPF, P4, XDP and Cilium.
 
 - [How eBPF Streamlines the Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/) - Explore how eBPF allows us to streamline the service mesh, making the data plane more efficient and easier to deploy.
 
-- [From Amazon VPC CNI to Cilium with Zero Downtime](https://medium.com/codex/migrate-to-cilium-from-amazon-vpc-cni-with-zero-downtime-493827c6b45e) - Migrate to Cilium from Amazon VPC CNI with Zero Downtime 
+- [From Amazon VPC CNI to Cilium with Zero Downtime](https://medium.com/codex/migrate-to-cilium-from-amazon-vpc-cni-with-zero-downtime-493827c6b45e) - Migrate to Cilium from Amazon VPC CNI with Zero Downtime. 
 
 - [Cilium CNI and OKE on Oracle Cloud](https://medium.com/oracledevs/cni-adventures-with-kubernetes-on-oracle-cloud-cilium-5c6f011746d5) - Kubernetes Networking with Cilium CNI and OKE on Oracle Cloud.
 
@@ -150,7 +146,7 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Isovalent Security Summer School 2023](https://isovalent.com/events/2023-07-security-summer-school/) - Virtual Security Summer School where you can level up your skills with hands-on labs. Learn how Cilium, Tetragon, and Hubble help improve Kubernetes security.
 
-- [Isovalent's cilium related events](https://isovalent.com/events/) - events featuring diverse voices, innovative companies and big ideas.
+- [Isovalent's cilium related events](https://isovalent.com/events/) - Events featuring diverse voices, innovative companies and big ideas.
 
 ## Community and Contributing
 
@@ -166,10 +162,10 @@ Here are some notable projects and concepts related to Cilium:
 
 - [Isovalent library for Cilium](https://isovalent.com/resource-library/) - You can find Videos `Case studies`, `Blogs`, `Books`, `Labs` and `Analyst Reports`.
 
-- [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) : Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects.
+- [Cilium Learning Tracks](https://isovalent.com/learning-tracks/) - Pick from tracks for cloud network engineers, security professionals, platform engineers, platform ops (service mesh), and cloud architects.
 
 - [K0S Cilium Playground](https://github.com/xinity/k0s_cilium_playground) - A full bash based k0s Cilium Clustermesh enabled playground.
-- 
+
 - [Podcast: Kubernetes Unpacked Podcast](https://packetpushers.net/podcast/kubernetes-unpacked-022-kubernetes-networking-and-abstraction-with-cilium-and-ebpf/) - Kubernetes Unpacked 022: Kubernetes Networking And Abstraction With Cilium And eBPF.
 
 - [From Zero to Cluster Mesh: Installing and Configuring Cilium CNI on Kubernetes](https://www.youtube.com/watch?v=z8Kifl3M3LU&list=PLQpKr4_0p0jEIGtCeV4VcGd_-Jf49e1JY) - How to install and configure the Cilium CNI (Container Network Interface) and enable its advanced cluster mesh feature across Kubernetes clusters in different availability zones!.
