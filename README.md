@@ -10,6 +10,7 @@
 ## Contents
 
 - [Reference Documentation](#reference-documentation)
+- [Cilium related projects](#cilium-related-projects)
 - [Articles and Presentations](#articles-and-presentations)
 - [Community Events](#community-events)
 - [Community and Contributing](#community-and-contributing)
@@ -25,7 +26,7 @@
 
 - [Cilium Certified Associate Study Guide](https://github.com/isovalent/CCA-Study-Guide) - Study guide  to help the Cilium community prepare for the CNCF's Cilium Certified Associate(CCA) Exam.
 
-### Cilium related projects
+## Cilium related projects
 
 - [Cilium](https://github.com/cilium/cilium) - The core project, Cilium, is a networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF (extended Berkeley Packet Filter) to provide fast and secure networking and load balancing for applications.
 
