@@ -172,6 +172,10 @@
 
 - [From Zero to Cluster Mesh: Installing and Configuring Cilium CNI on Kubernetes](https://www.youtube.com/watch?v=z8Kifl3M3LU&list=PLQpKr4_0p0jEIGtCeV4VcGd_-Jf49e1JY) - How to install and configure the Cilium CNI (Container Network Interface) and enable its advanced cluster mesh feature across Kubernetes clusters in different availability zones!.
 
+- [Cilium and SPIRE integration](https://github.com/accuknox/cilium-spire-tutorials) - Tutorials about Cilium and SPIRE integration.
+
+- [Cilium Network policies Library](https://github.com/kubearmor/policy-templates/tree/main)  - Community curated list of System and Network policy templates for the KubeArmor and Cilium.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
