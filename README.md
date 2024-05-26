@@ -20,7 +20,7 @@
 
 - [Website](https://cilium.io) - Official website of cilium which was originally created by [Isovalent](https://isovalent.com/).
 
-- [Official GitHub repository](https://github.com/cilium) - GitHub Repository of cilium project.
+- [Official GitHub repository](https://github.com/cilium) - GitHub repository of the Cilium project.
 
 - [A cookbook of installing cilium on AWS EKS](https://github.com/littlejo/cilium-eks-cookbook) - Multiple ways to install cilium in eks.
 
@@ -30,21 +30,21 @@
 
 - [Cilium](https://github.com/cilium/cilium) - The core project, Cilium, is a networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF (extended Berkeley Packet Filter) to provide fast and secure networking and load balancing for applications.
 
-- [eBPF](https://github.com/cilium/ebpf) - Extended Berkeley Packet Filter (eBPF) is a technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel. Cilium heavily relies on eBPF to enhance the networking and security capabilities of containerized applications.
+- [eBPF](https://github.com/cilium/ebpf) - Extended Berkeley Packet Filter (eBPF) is a technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
 
-- [Cilium Proxy](https://github.com/cilium/proxy) - Cilium Proxy is a high-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 (Layer 7) visibility, helping secure and monitor application traffic.
+- [Cilium Proxy](https://github.com/cilium/proxy) - A high-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 (Layer 7) visibility, helping secure and monitor application traffic.
 
-- [Cilium Cluster Mesh](https://docs.cilium.io/en/v1.9/gettingstarted/clustermesh/) - Cilium Cluster Mesh allows you to securely connect multiple Kubernetes clusters together using encrypted tunnels. It enables seamless communication and service discovery across clusters while maintaining strong security boundaries.
+- [Cilium Cluster Mesh](https://docs.cilium.io/en/v1.9/gettingstarted/clustermesh/) -  Allows you to securely connect multiple Kubernetes clusters together using encrypted tunnels. It enables seamless communication and service discovery across clusters while maintaining strong security boundaries.
 
-- [Hubble](https://github.com/cilium/hubble) - Hubble is a network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
+- [Hubble](https://github.com/cilium/hubble) - A network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
 
-- [Cilium Operator](https://docs.cilium.io/en/stable/internals/cilium_operator/) - Cilium Operator is a Kubernetes operator that simplifies the deployment and management of Cilium within a Kubernetes cluster. It automates tasks such as deploying Cilium agents, configuring eBPF policies, and handling upgrades.
+- [Cilium Operator](https://docs.cilium.io/en/stable/internals/cilium_operator/) - A Kubernetes operator that simplifies the deployment and management of Cilium within a Kubernetes cluster. It automates tasks such as deploying Cilium agents, configuring eBPF policies, and handling upgrades.
 
-- [Tetragon](https://github.com/cilium/tetragon) - Tetragon is a runtime security enforcement and observability tool.
+- [Tetragon](https://github.com/cilium/tetragon) - A runtime security enforcement and observability tool.
 
-- [Cilium Mesh](https://isovalent.com/blog/post/introducing-cilium-mesh/) - Cilium Mesh connects Kubernetes workloads, virtual machines, and physical servers running in the cloud, on-premises, or at the edge.
+- [Cilium Mesh](https://isovalent.com/blog/post/introducing-cilium-mesh/) - Connect Kubernetes workloads, virtual machines, and physical servers running in the cloud, on-premises, or at the edge.
 
-- [NetworkPolicy Editor](https://editor.networkpolicy.io/) - Create, Visualize, and Share Kubernetes NetworkPolicies.
+- [NetworkPolicy Editor](https://editor.networkpolicy.io/) - Create, visualize, and share Kubernetes networkPolicies.
 
 - [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) - Collect metrics from Cilium and store them in Prometheus for analysis and alerting.
 
@@ -56,13 +56,13 @@
 
 - [Coroot](https://github.com/coroot/coroot) - It  turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
 
-- [Pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability.
+- [Pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native application observability.
 
 - [caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 
 - [Netreap](https://github.com/cosmonic-labs/netreap) - A Cilium controller implementation for Nomad.
 
-- [Gloo Network](https://www.solo.io/products/gloo-network/) - Gloo Network enables Cilium-CNI powered by eBPF to enable networking, packet filtering and observability for modern applications.
+- [Gloo Network](https://www.solo.io/products/gloo-network/) - Enable Cilium-CNI powered by eBPF to enable networking, packet filtering and observability for modern applications.
 
 - [Bpfilter instead of iptables for routing](https://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux) - Bpfilter offers a new approach to packet filtering in Linux.
   
