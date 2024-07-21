@@ -175,7 +175,7 @@
 - [Cilium and SPIRE integration](https://github.com/accuknox/cilium-spire-tutorials) - Tutorials about Cilium and SPIRE integration.
 
 - [Cilium Network policies Library](https://github.com/kubearmor/policy-templates/tree/main)  - Community curated list of System and Network policy templates for the KubeArmor and Cilium.
-- [ Kyverno policies for Cilium Network Policies](https://github.com/adobeSlash/cilium-kyverno) - Examples of Kyverno policies for controlling the creation of Cilium Network policies.
+- [Kyverno policies for Cilium Network Policies](https://github.com/adobeSlash/cilium-kyverno) - Examples of Kyverno policies for controlling the creation of Cilium Network policies.
 
 ## Contributing
 
