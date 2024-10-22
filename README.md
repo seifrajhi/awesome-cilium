@@ -12,7 +12,6 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 - [Community Events](#community-events)
 - [Community and Contributing](#community-and-contributing)
 - [Hands on Contents](#hands-on-contents)
-- [Contributing](#contributing)
 
 ## Reference Documentation
 
