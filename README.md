@@ -6,7 +6,6 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Contents
 
-- [Contents](#contents)
 - [Reference Documentation](#reference-documentation)
 - [Cilium related projects](#cilium-related-projects)
 - [Articles and Presentations](#articles-and-presentations)
@@ -112,4 +111,4 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 > Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from _you_ to keep this awesome list up to date, and improve its signal-to-noise ratio in any way we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues).
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+_Please read the [contribution guidelines](CONTRIBUTING.md) before contributing._
